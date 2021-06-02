@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+bower_components/
+.idea/
+local/
+config/local.js
+build/
+*.log*
+env/local*
+target/
+#src/wpeditor/qiniu/
+types/
+temp/
+yarn.lock
+zip/
+.vscode/
+yarn-error.log
